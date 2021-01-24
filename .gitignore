@@ -1,0 +1,6 @@
+nodejs/node_modules/
+java_docker/.mvn/
+java_docker/.settings/
+java_docker/target/
+java_docker/.classpath
+java_docker/.project
