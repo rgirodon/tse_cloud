@@ -4,3 +4,4 @@ java_docker/.settings/
 java_docker/target/
 java_docker/.classpath
 java_docker/.project
+dynamo_db/node_modules/
